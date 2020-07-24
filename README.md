@@ -13,8 +13,8 @@ Modules requied :
   dlib version 19.4
   
 To get the final output, run 
-'''
+```
 python main.py
-'''. 
+``` 
 
 After your webcam gets turn ON, make sure you face the cam properly and in a bright environment so as to predict your Eye blinks.
