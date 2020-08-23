@@ -15,7 +15,7 @@ Modules requied :
   OpenCV version 3.3
   dlib version 19.4
 ```
-Install and Set the enivironment as 'opencv-env' to run this project
+Install and Activate the enivironment 'opencv-env' to run this project
 
 To get the final output, run the command
 ```
