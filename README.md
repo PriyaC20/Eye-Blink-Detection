@@ -4,7 +4,7 @@ Before running the code, download the file from the below link and place it in t
 
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
-This can extract features from the face like eyes, nose, lips, and jaw using facial landmarks.
+This can extract features of the face like eyes, nose, lips, and jaw using facial landmarks.
 
 
 
@@ -15,8 +15,9 @@ Modules requied :
   OpenCV version 3.3
   dlib version 19.4
 ```
+Install and Set the enivironment as 'opencv-env' to run this project
 
-To get the final output, run 
+To get the final output, run the command
 ```
 python main.py
 ``` 
